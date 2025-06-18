@@ -5,7 +5,7 @@ EUPOS is a modern Point of Sale (POS) system developed for Euro Lanka. It is des
 ## 🚀 Features
 
 
-![feature_structure](assets/Feture map.png)
+![feature_structure](assets/feature.png)
 - Inventory management
 - Billing and invoicing
 - User authentication
@@ -13,8 +13,8 @@ EUPOS is a modern Point of Sale (POS) system developed for Euro Lanka. It is des
 - Sales reporting and analytics
 - Containerized microservices
 
-![MS_structure](assets/Blank diagram.jpeg)
-![MS_structure](assets/other maps.png)
+![MS_structure](assets/arch.jpeg)
+![MS_structure](assets/list.png)
 
 
 ## 🛠 Tech Stack
